@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/phanngoctuan1990/puppeteer-crawl-data#readme",
   "dependencies": {
+    "image-downloader": "^3.3.0",
     "puppeteer": "^0.13.0"
   }
 }
